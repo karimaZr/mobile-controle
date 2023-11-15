@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Controle-project</string>
+    <array name="services">
+        <item>Informatique</item>
+        <item>JEE</item>
+        <item>Base de données anvancée</item>
+    </array>
+</resources>
